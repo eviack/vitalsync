@@ -12,7 +12,8 @@ And will get access to your medical timeline analyzed by AI.
 
 ### Manage your data easily
 
-<img width="1898" height="915" alt="image" src="https://github.com/user-attachments/assets/bb37fc90-e060-4a00-92ba-e210ab058e15" />
+<img width="1905" height="917" alt="image" src="https://github.com/user-attachments/assets/451fbc77-15a5-4937-a5a1-bef01429d8bf" />
+
 
 ### Doctor gets your timeline extracted from analysis of your reports
 Doctor can chat with the timeline and can get his questions answered quickly, thus saving a lot of time.
@@ -29,8 +30,6 @@ GROQ_API_KEY =
 QDRANT_API_KEY = 
 QDRANT_URL = 
 HF_TOKEN =
-
-PHONE_NUM = 
 
 TWILIO_ACCOUNT_SID = 
 TWILIO_AUTH_TOKEN =
