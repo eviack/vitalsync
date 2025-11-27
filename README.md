@@ -1,4 +1,4 @@
-# VitalSync - Patient history retrieval system and AI powered medical timeline generation
+# VitalSync AI - Patient history retrieval system and AI powered medical timeline generation
 
 Got tons of patient medical history and want to swtich your doctor ?
 Upload them all here, create a card ! A single card for all your problems.
