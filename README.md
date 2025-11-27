@@ -7,7 +7,7 @@ And will get access to your medical timeline analyzed by AI.
 
 ### Sleek and minimal UI
 
-<img width="1851" height="927" alt="image" src="https://github.com/user-attachments/assets/72f55b45-0262-4ec8-bd14-bdd9d46f6fee" />
+<img width="1837" height="906" alt="file_2025-11-20_12 11 16 1" src="https://github.com/user-attachments/assets/11247665-ede0-4507-9b39-687b3c648871" />
 <img width="1830" height="925" alt="image" src="https://github.com/user-attachments/assets/447ebd58-74bf-4875-a0f7-66b23d86e82f" />
 
 ### Manage your data easily
